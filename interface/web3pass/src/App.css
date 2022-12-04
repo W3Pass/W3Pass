@@ -1,0 +1,46 @@
+.metamaskbutton {
+  background-color: #CB9595;
+  position:absolute;
+  right: 30px;
+  padding: 5px 15px;
+  top: 10px;
+  cursor: pointer;
+}
+
+.heading {
+  background-color: #AFA9A9;
+  width:15%;
+  bottom: 100px;
+  padding: 10px 20px;
+  margin: 6% auto 2% auto;
+  text-align: center;
+}
+
+.revealbutton {
+  cursor: pointer;
+}
+
+.datatable {
+  width: -webkit-fill-available;
+  overflow-y: scroll;
+}
+
+.copybutton {
+  cursor: pointer;
+}
+
+.copyicon{
+  cursor: pointer;
+}
+
+.tablehead {
+background: #AEA8A8;
+}
+
+.tablebody {
+  background: #C3BFBF;
+}
+
+.savemorepasswords{
+  margin-top: 40px;
+}
